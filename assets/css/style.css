@@ -1,0 +1,27 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: rgb(74, 158, 248);
+    text-decoration: underline;
+    text-emphasis-color: white;
+}
