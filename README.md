@@ -51,4 +51,4 @@ JavaScript:
 * Clear search history button function.
 * On click handlers.
 
-![Webpage preview](.\assets\image\Weather_App.png)
+![Webpage preview](./assets/image/Weather_App.png)
