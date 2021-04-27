@@ -16,3 +16,14 @@ Requirements:
 * UV index is presented with diferent color wether the conditions are favorable, moderate, or severe.
 * Future wether conditions are presented in 5-day forecast that is presented with date, an icon representation of weather conditions, temperature, and humidity.
 * When clicked on city from history it presents again the current and future weather conditions for selected city.
+
+HTML:
+
+* Add bootstrap and linked CSS file.
+* Added header.
+* Added input box for "Search placeholder.
+* Added Search button with dark theme.
+* City name loaded dynamically in javascript.
+* Weather values loaded dynamically in javascript.
+* Added 5-day forecast.
+* Linked JavaScript file.
