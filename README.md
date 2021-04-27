@@ -21,9 +21,34 @@ HTML:
 
 * Add bootstrap and linked CSS file.
 * Added header.
-* Added input box for "Search placeholder.
-* Added Search button with dark theme.
-* City name loaded dynamically in javascript.
-* Weather values loaded dynamically in javascript.
-* Added 5-day forecast.
+* Added input box for "Type city name" placeholder.
+* Added Search button.
+* Added Clear button.
+* Added current temperature, wind speed, humidity and UV index.
+* Added future 5 day forecast.
 * Linked JavaScript file.
+
+CSS:
+
+* Font syling
+* 5 day forecast styling.
+* Hover search history styling.
+
+JavaScript:
+
+* Variable declaration.
+* Searches for City function to check if it exist in inputs from the storage.
+* Added open Weather API key.
+* Render current and future weather after user input.
+* Ajax function.
+* Added API url to get data from server.
+* Added weather icon data from API server.
+* Render current temperature and displays it in Farenheits.
+* Render wind speed, humidity and UV index.
+* Added URL for UV index API server data.
+* 5 day forecast function. 
+* User input search history list and display previos history on click from local storage.
+* Clear search history button function.
+* On click handlers.
+
+![Webpage preview](.\assets\image\Weather_App.png)
